@@ -1,0 +1,75 @@
+/* div
+{
+    background-color: aquamarine;
+}
+
+span{
+    font-size: 30px;
+}
+
+h1{
+    color: blue;
+    font-size: 50px;
+    font-weight: lighter;
+}
+
+p{
+    font-weight: bold;
+}
+
+#para
+{
+    font-weight: lighter;
+    color: blue;
+}
+
+.ImgOne
+{
+    width: 500px;
+    height: 500px;
+}
+
+#One{
+    color: blue;
+    font-size: 20px;
+    position: sticky;
+    top: 10px;
+}
+
+#Two{
+    color: burlywood;
+    font-size: 30px;
+}
+
+#Three{
+color: brown;
+font-size: 40px;    
+}
+
+div{
+    height: 1500px;
+} */
+
+body
+{
+    height: 1600px;
+    width: 1600px;
+    margin: 0px;
+    padding: 10px;
+}
+
+table{
+    background-color: darkmagenta;
+    position: fixed
+}
+tr{
+    color: chartreuse;
+}
+
+a{
+    color: cyan;
+}
+
+table{
+    width: 100%;
+}
